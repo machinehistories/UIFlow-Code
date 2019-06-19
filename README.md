@@ -12,7 +12,7 @@ Detailed api view https://github.com/m5stack/UIFlow-Code/wiki/Advanced
 
 ## UIFlow Office Quick Start
 
-1.Download and flash firmware in https://github.com/m5stack/UIFlow-Code/firmware (firmware addr is 0x1000)
+1.Download and flash firmware in https://github.com/m5stack/UIFlow-Code/tree/master/firmware (firmware addr is 0x1000)
 
 > note: begin flash please erase esp32  flash
 
